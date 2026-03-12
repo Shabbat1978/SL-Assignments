@@ -1,2 +1,2 @@
 # SL-Assignments
-Computer assignments
+Computer Assignments
