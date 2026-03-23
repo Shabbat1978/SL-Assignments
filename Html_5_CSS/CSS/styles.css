@@ -5,14 +5,17 @@ h1 {
     color: brown;
 }
 h2 {color: brown;
+    text-align: center;
 }
 h3 {color: brown;
 }
+
 #container {background-color: burlywood;
 width: 950px;
 margin: 20px auto;
 border: 4px solid crimson;
 padding: 20px;
+border-radius: 20px;
 }
  
 header {
@@ -22,3 +25,44 @@ header h1 {
     color: brown;
     font-size: large;
 }
+img {
+    display: block;
+    margin: 20px auto;
+    width: 600px;
+  }
+  nav {
+    text-align: center;
+    border-top: 4px solid crimson;
+    border-bottom: 4px solid crimson;
+    padding: 20px 0;
+  }
+  nav a {
+    color: crimson;
+    font-size: 30px;
+    margin: 0 20px;
+  }
+  nav a:hover {
+    color: blue;
+    text-decoration: none;
+  }
+  main {
+margin: 20px auto;
+border: 4px solid crimson;
+padding: 20px;
+border-radius: 20px;
+  }
+  main h2 {
+    color: brown;
+    text-align: center;
+  }
+  main img {
+    display: block;
+    margin: 20px auto;
+    width: 600px;
+    border-radius: 20px;
+  }
+  footer {
+    padding: 40px 0;
+    text-align: center;
+    border-top: 4px solid crimson;
+  }
