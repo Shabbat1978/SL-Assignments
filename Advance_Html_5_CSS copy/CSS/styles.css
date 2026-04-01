@@ -8,8 +8,12 @@ h2 {color: brown;
     text-align: center;
 }
 h3 {color: brown;
+  text-align: center;
 }
-h4 {color: brown;}
+h4 {color: brown;
+  text-align: center;
+}
+
 
 img {
     display: block;
@@ -39,6 +43,7 @@ header {
 header h1 {
     color: brown;
     font-size: 50px;
+    text-shadow: 2px 2px 2px black;
 }
 nav {
   text-align: center;
@@ -61,4 +66,73 @@ nav li a {
   font-size: 25px;
   text-decoration: none;
   border-radius: 10px;
+  border: 2px solid crimson;
 }
+nav li a:hover {
+    color: black;
+    background-color: darkgoldenrod;
+  }
+
+  main h2 {
+    text-align: center;
+  }
+
+  .multi_col {
+    display: flex;
+  }
+
+  section,
+  aside {
+    border-radius: 20px;
+    border: 2px solid crimson;
+    margin: 20px;
+    padding: 20px;
+  }
+  
+  section {
+    width: 75%;
+  }
+
+  aside {
+    width: 25%;
+  }
+
+  section img {
+    border-radius: 10px;
+    border: 2px solid crimson;
+    width: 75%;
+  }
+
+  aside img {
+    border-radius: 10px;
+    border: 2px solid crimson;
+    width: 75%;
+
+  }
+
+  footer {
+    padding: 40px 0;
+    text-align: center;
+  }
+
+  .img_style {
+    width: 75%;
+    border-radius: 10px;
+    border: 2px solid crimson;
+    box-shadow: 2px 2px 5px chocolate;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  hr {
+border: 1px solid crimson;
+  }
+  iframe{
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+    border: 2px solid crimson;
+
+  }
+  .side_drinks{
+    text-align: center;
+  }
