@@ -43,7 +43,7 @@ header {
 header h1 {
     color: brown;
     font-size: 50px;
-    text-shadow: 2px 2px 2px black;
+    text-shadow: 2px 2px 2px goldenrod;
 }
 nav {
   text-align: center;
