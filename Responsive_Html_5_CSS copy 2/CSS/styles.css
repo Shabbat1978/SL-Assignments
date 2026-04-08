@@ -1,6 +1,8 @@
 /*Global Styles */
 
 
+
+
 body {
     background-color: darkgoldenrod;
 }
@@ -22,7 +24,13 @@ h5 {color: brown;
   font-size: large;
 
 
+
+
 }
+
+
+
+
 
 
 
@@ -40,6 +48,8 @@ img {
     text-decoration: none;
   }
  
+
+
 
 
 #container {background-color: burlywood;
@@ -88,14 +98,20 @@ nav li a:hover {
   }
 
 
+
+
   main h2 {
     text-align: center;
   }
 
 
+
+
   .multi_col {
     display: flex;
   }
+
+
 
 
   section,
@@ -111,9 +127,13 @@ nav li a:hover {
   }
 
 
+
+
   aside {
     width: 25%;
   }
+
+
 
 
   section img {
@@ -123,19 +143,27 @@ nav li a:hover {
   }
 
 
+
+
   aside img {
     border-radius: 10px;
     border: 2px solid crimson;
     width: 75%;
 
 
+
+
   }
+
+
 
 
   footer {
     padding: 40px 0;
     text-align: center;
   }
+
+
 
 
   .img_style {
@@ -156,10 +184,13 @@ border: 1px solid crimson;
     border: 2px solid crimson;
 
 
+
+
   }
   .side_drinks{
     text-align: center;
   }
+
 
 /* Mobile  Styles*/
  
