@@ -5,21 +5,9 @@ body{
     font-weight: bold;
       
   font-style:italic;
-
+background-image:url(../images/bar1.jpg);
 }
 
-.bg {
-  /* The image used */
-  background-image: url("img_bar4.jpg");
-
-  /* Full height */
-  height: 100%;
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 
 h1 {
     color: brown;
@@ -90,8 +78,18 @@ header {
 }
 header h1 {
     color: brown;
-    font-size: 36px;
+    font-size: 50px;
     text-shadow: 2px 2px 2px goldenrod;
+    display: block;
+  background-color:white;
+  color:crimson;
+  
+  height: 40px;
+  line-height: 40px;
+  font-size: 50px;
+  text-decoration: none;
+  border-radius: 10px;
+  border: 2px solid crimson;
 }
 nav {
   text-align: center;
@@ -183,7 +181,8 @@ border: 1px solid crimson;
 /* Mobile  Styles*/
  
 header {
-  background-image: url(images/figgyObbin1.jpg);
+  background-image:url(../images/venice2.jpg);
+  
   background-repeat: no-repeat;
   background-size: cover;
   padding: 50px;
