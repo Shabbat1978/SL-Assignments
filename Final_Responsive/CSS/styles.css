@@ -206,7 +206,7 @@ header {
   }
   nav li a{
     display: block;
-    width: 150px;
+    width: 125px;
   }
   .multi_col{
     display: flex;
