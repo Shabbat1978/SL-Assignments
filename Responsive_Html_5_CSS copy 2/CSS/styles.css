@@ -21,11 +21,11 @@ h5 {color: brown;
   font-size: large;
 }
 
-
 img {
     display: block;
     margin: 0 auto;
     width: 100%;
+    height: 400px;
   }
   a {
     color: brown;
