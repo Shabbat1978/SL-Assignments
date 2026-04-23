@@ -57,6 +57,8 @@ h5 {color: brown;
     color: brown;
     text-shadow: 2px 2px 2px goldenrod;
       color:crimson;
+      border-radius: 10px;
+  border: 6px solid goldenrod;
 }
 
 img {
